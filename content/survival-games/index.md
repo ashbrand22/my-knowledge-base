@@ -1,3 +1,3 @@
 ---
-title survival games: Survival Games
+"title: survival games": Survival Games
 ---

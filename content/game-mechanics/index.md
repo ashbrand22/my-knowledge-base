@@ -1,5 +1,5 @@
 ---
-title game mechanics: Game Mechanics
+"title: game mechanics": Game Mechanics
 ---
 ## The Category 02 category index page
 

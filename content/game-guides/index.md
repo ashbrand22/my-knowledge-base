@@ -1,5 +1,5 @@
 ---
-title Game Guides: Game Guides
+"title: Game Guides": Game Guides
 ---
 ## The Category 01 category index page
 
