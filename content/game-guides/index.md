@@ -1,3 +1,3 @@
 ---
-"title: game-guides": Game Guides
+title: Game Guides
 ---

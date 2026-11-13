@@ -1,3 +1,3 @@
 ---
-"title: multiplayer": Multiplayer
+title: Multiplayer
 ---

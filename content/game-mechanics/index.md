@@ -1,3 +1,3 @@
 ---
-"title: game-mechanics": Game Mechanics
+title: Game Mechanics
 ---

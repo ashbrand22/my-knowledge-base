@@ -1,3 +1,3 @@
 ---
-"title: tips-and-tricks": Tips and Tricks
+title: Tips and Tricks
 ---

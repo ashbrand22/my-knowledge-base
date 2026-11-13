@@ -1,3 +1,3 @@
 ---
-"title: troubleshooting": Troubleshooting
+title: Troubleshooting
 ---

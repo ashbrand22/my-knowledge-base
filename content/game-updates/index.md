@@ -1,3 +1,3 @@
 ---
-"title: game updates": Game Updates
+title: Game Updates
 ---
