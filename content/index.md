@@ -9,3 +9,12 @@ Throughout this website, I will share game guides, helpful tips, gameplay mechan
 
 
 
+## Main Categories
+
+- [[game-guides/index|Game Guides]]
+- [[game-mechanics/index|Game Mechanics]]
+- [[game-updates/index|Game Updates]]
+- [[multiplayer/index|Multiplayer Gaming]]
+- [[survival-games/index|Survival Games]]
+- [[tips-and-tricks/index|Tips and Tricks]]
+- [[troubleshooting/index|Troubleshooting]]
